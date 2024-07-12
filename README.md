@@ -1,2 +1,2 @@
 # React
-Repository dedicated to upload my project learning React.js
+Repository dedicated to upload my projects practicing React.js
